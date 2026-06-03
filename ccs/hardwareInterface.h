@@ -1,4 +1,5 @@
 /* Interface header for hardwareInterface.c */
+#pragma once
 
 /* Global Defines */
 #define CAN_TIMEOUT 30 //multiples of 100ms
